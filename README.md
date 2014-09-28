@@ -1,0 +1,4 @@
+dic
+===
+
+Device Information Companion
